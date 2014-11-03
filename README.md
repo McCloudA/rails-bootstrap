@@ -1,3 +1,13 @@
+
+This is Aaron McCloud's version of rails-bootstrap from the RailsApp Project Tutorials.
+
+
+
+
+
+
+
+---------------------------------------------------
 Rails Bootstrap
 ================
 
